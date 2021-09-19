@@ -18,7 +18,7 @@ Save the file as **screenfetch.gif**.
 **Challenges and Problems**: 
 
 ### Installing VirtualBox and Kali
-<img src="https://github.com/Devon-T29/KaliCodePath/blob/main/KaliStartUpGif.gif" alt="Virtualbox Installation">
+<img src="https://github.com/Devon-T29/KaliCodePath/blob/main/KaliStartUp.gif" alt="Virtualbox Installation">
  
 ### Running screenfetch
 <img src="https://github.com/Devon-T29/KaliCodePath/blob/main/DevonTraywickKali.gif" alt="Running screenfetch">
